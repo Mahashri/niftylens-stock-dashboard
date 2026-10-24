@@ -1,6 +1,8 @@
-# NiftyLens — Stock Performance Intelligence
+# Mahashri NiftyLens — Stock Performance Intelligence
 
-A responsive, browser-first dashboard for exploring the stock performance workbook.
+A responsive, browser-first dashboard for exploring the stock performance workbook, created by Mahashri.
+
+**Creator:** [Mahashri on LinkedIn](https://www.linkedin.com/in/mahashrid)
 
 ## Features
 - Interactive ranking chart for each stock's highest available CAGR.
