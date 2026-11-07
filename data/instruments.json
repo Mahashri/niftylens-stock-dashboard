@@ -1,0 +1,460 @@
+{
+  "provider": "Yahoo Finance chart endpoint (unofficial/free; no API key)",
+  "benchmark": {
+    "name": "Nifty 50",
+    "nse_symbol": "NIFTY 50",
+    "yahoo_symbol": "^NSEI"
+  },
+  "instruments": [
+    {
+      "name": "APOLLOHOSP",
+      "nse_symbol": "APOLLOHOSP",
+      "yahoo_symbol": "APOLLOHOSP.NS"
+    },
+    {
+      "name": "ASHOKLEY",
+      "nse_symbol": "ASHOKLEY",
+      "yahoo_symbol": "ASHOKLEY.NS"
+    },
+    {
+      "name": "ARE&M",
+      "nse_symbol": "ARE&M",
+      "yahoo_symbol": "ARE&M.NS"
+    },
+    {
+      "name": "ASIANPAINT",
+      "nse_symbol": "ASIANPAINT",
+      "yahoo_symbol": "ASIANPAINT.NS"
+    },
+    {
+      "name": "AXISBANK",
+      "nse_symbol": "AXISBANK",
+      "yahoo_symbol": "AXISBANK.NS"
+    },
+    {
+      "name": "BSE",
+      "nse_symbol": "BSE",
+      "yahoo_symbol": "BSE.NS"
+    },
+    {
+      "name": "BAJAJ-AUTO",
+      "nse_symbol": "BAJAJ-AUTO",
+      "yahoo_symbol": "BAJAJ-AUTO.NS"
+    },
+    {
+      "name": "BAJFINANCE",
+      "nse_symbol": "BAJFINANCE",
+      "yahoo_symbol": "BAJFINANCE.NS"
+    },
+    {
+      "name": "BAJAJFINSV",
+      "nse_symbol": "BAJAJFINSV",
+      "yahoo_symbol": "BAJAJFINSV.NS"
+    },
+    {
+      "name": "BAJAJHLDNG",
+      "nse_symbol": "BAJAJHLDNG",
+      "yahoo_symbol": "BAJAJHLDNG.NS"
+    },
+    {
+      "name": "CDSL",
+      "nse_symbol": "CDSL",
+      "yahoo_symbol": "CDSL.NS"
+    },
+    {
+      "name": "CHOLAFIN",
+      "nse_symbol": "CHOLAFIN",
+      "yahoo_symbol": "CHOLAFIN.NS"
+    },
+    {
+      "name": "CIPLA",
+      "nse_symbol": "CIPLA",
+      "yahoo_symbol": "CIPLA.NS"
+    },
+    {
+      "name": "DIVISLAB",
+      "nse_symbol": "DIVISLAB",
+      "yahoo_symbol": "DIVISLAB.NS"
+    },
+    {
+      "name": "DRREDDY",
+      "nse_symbol": "DRREDDY",
+      "yahoo_symbol": "DRREDDY.NS"
+    },
+    {
+      "name": "EXIDEIND",
+      "nse_symbol": "EXIDEIND",
+      "yahoo_symbol": "EXIDEIND.NS"
+    },
+    {
+      "name": "EICHERMOT",
+      "nse_symbol": "EICHERMOT",
+      "yahoo_symbol": "EICHERMOT.NS"
+    },
+    {
+      "name": "HEROMOTOCO",
+      "nse_symbol": "HEROMOTOCO",
+      "yahoo_symbol": "HEROMOTOCO.NS"
+    },
+    {
+      "name": "HAL",
+      "nse_symbol": "HAL",
+      "yahoo_symbol": "HAL.NS"
+    },
+    {
+      "name": "HCLTECH",
+      "nse_symbol": "HCLTECH",
+      "yahoo_symbol": "HCLTECH.NS"
+    },
+    {
+      "name": "HDFCBANK",
+      "nse_symbol": "HDFCBANK",
+      "yahoo_symbol": "HDFCBANK.NS"
+    },
+    {
+      "name": "HDFCAMC",
+      "nse_symbol": "HDFCAMC",
+      "yahoo_symbol": "HDFCAMC.NS"
+    },
+    {
+      "name": "ICICIBANK",
+      "nse_symbol": "ICICIBANK",
+      "yahoo_symbol": "ICICIBANK.NS"
+    },
+    {
+      "name": "ICICIAMC",
+      "nse_symbol": "ICICIAMC",
+      "yahoo_symbol": "ICICIAMC.NS"
+    },
+    {
+      "name": "ITC",
+      "nse_symbol": "ITC",
+      "yahoo_symbol": "ITC.NS"
+    },
+    {
+      "name": "INFY",
+      "nse_symbol": "INFY",
+      "yahoo_symbol": "INFY.NS"
+    },
+    {
+      "name": "KOTAKBANK",
+      "nse_symbol": "KOTAKBANK",
+      "yahoo_symbol": "KOTAKBANK.NS"
+    },
+    {
+      "name": "LT",
+      "nse_symbol": "LT",
+      "yahoo_symbol": "LT.NS"
+    },
+    {
+      "name": "MANAPPURAM",
+      "nse_symbol": "MANAPPURAM",
+      "yahoo_symbol": "MANAPPURAM.NS"
+    },
+    {
+      "name": "MUTHOOTFIN",
+      "nse_symbol": "MUTHOOTFIN",
+      "yahoo_symbol": "MUTHOOTFIN.NS"
+    },
+    {
+      "name": "MARUTI",
+      "nse_symbol": "MARUTI",
+      "yahoo_symbol": "MARUTI.NS"
+    },
+    {
+      "name": "M&M",
+      "nse_symbol": "M&M",
+      "yahoo_symbol": "M&M.NS"
+    },
+    {
+      "name": "MAXHEALTH",
+      "nse_symbol": "MAXHEALTH",
+      "yahoo_symbol": "MAXHEALTH.NS"
+    },
+    {
+      "name": "NH",
+      "nse_symbol": "NH",
+      "yahoo_symbol": "NH.NS"
+    },
+    {
+      "name": "NATCOPHARM",
+      "nse_symbol": "NATCOPHARM",
+      "yahoo_symbol": "NATCOPHARM.NS"
+    },
+    {
+      "name": "NESTLEIND",
+      "nse_symbol": "NESTLEIND",
+      "yahoo_symbol": "NESTLEIND.NS"
+    },
+    {
+      "name": "NAM-INDIA",
+      "nse_symbol": "NAM-INDIA",
+      "yahoo_symbol": "NAM-INDIA.NS"
+    },
+    {
+      "name": "PHARMABEES",
+      "nse_symbol": "PHARMABEES",
+      "yahoo_symbol": "PHARMABEES.NS"
+    },
+    {
+      "name": "SUNPHARMA",
+      "nse_symbol": "SUNPHARMA",
+      "yahoo_symbol": "SUNPHARMA.NS"
+    },
+    {
+      "name": "SHRIRAMFIN",
+      "nse_symbol": "SHRIRAMFIN",
+      "yahoo_symbol": "SHRIRAMFIN.NS"
+    },
+    {
+      "name": "SBIN",
+      "nse_symbol": "SBIN",
+      "yahoo_symbol": "SBIN.NS"
+    },
+    {
+      "name": "SOUTHBANK",
+      "nse_symbol": "SOUTHBANK",
+      "yahoo_symbol": "SOUTHBANK.NS"
+    },
+    {
+      "name": "KARURVYSYA",
+      "nse_symbol": "KARURVYSYA",
+      "yahoo_symbol": "KARURVYSYA.NS"
+    },
+    {
+      "name": "TMB",
+      "nse_symbol": "TMB",
+      "yahoo_symbol": "TMB.NS"
+    },
+    {
+      "name": "RELIANCE",
+      "nse_symbol": "RELIANCE",
+      "yahoo_symbol": "RELIANCE.NS"
+    },
+    {
+      "name": "GOLDBEES",
+      "nse_symbol": "GOLDBEES",
+      "yahoo_symbol": "GOLDBEES.NS"
+    },
+    {
+      "name": "SILVERBEES",
+      "nse_symbol": "SILVERBEES",
+      "yahoo_symbol": "SILVERBEES.NS"
+    },
+    {
+      "name": "TCS",
+      "nse_symbol": "TCS",
+      "yahoo_symbol": "TCS.NS"
+    },
+    {
+      "name": "TMPV",
+      "nse_symbol": "TMPV",
+      "yahoo_symbol": "TMPV.NS"
+    },
+    {
+      "name": "TMCV",
+      "nse_symbol": "TMCV",
+      "yahoo_symbol": "TMCV.NS"
+    },
+    {
+      "name": "TATASTEEL",
+      "nse_symbol": "TATASTEEL",
+      "yahoo_symbol": "TATASTEEL.NS"
+    },
+    {
+      "name": "TATAPOWER",
+      "nse_symbol": "TATAPOWER",
+      "yahoo_symbol": "TATAPOWER.NS"
+    },
+    {
+      "name": "TITAN",
+      "nse_symbol": "TITAN",
+      "yahoo_symbol": "TITAN.NS"
+    },
+    {
+      "name": "TVSMOTOR",
+      "nse_symbol": "TVSMOTOR",
+      "yahoo_symbol": "TVSMOTOR.NS"
+    },
+    {
+      "name": "ULTRACEMCO",
+      "nse_symbol": "ULTRACEMCO",
+      "yahoo_symbol": "ULTRACEMCO.NS"
+    },
+    {
+      "name": "VBL",
+      "nse_symbol": "VBL",
+      "yahoo_symbol": "VBL.NS"
+    },
+    {
+      "name": "WIPRO",
+      "nse_symbol": "WIPRO",
+      "yahoo_symbol": "WIPRO.NS"
+    },
+    {
+      "name": "WAAREEENER",
+      "nse_symbol": "WAAREEENER",
+      "yahoo_symbol": "WAAREEENER.NS"
+    },
+    {
+      "name": "ZYDUSLIFE",
+      "nse_symbol": "ZYDUSLIFE",
+      "yahoo_symbol": "ZYDUSLIFE.NS"
+    },
+    {
+      "name": "VEDL",
+      "nse_symbol": "VEDL",
+      "yahoo_symbol": "VEDL.NS"
+    },
+    {
+      "name": "SAIL",
+      "nse_symbol": "SAIL",
+      "yahoo_symbol": "SAIL.NS"
+    },
+    {
+      "name": "COALINDIA",
+      "nse_symbol": "COALINDIA",
+      "yahoo_symbol": "COALINDIA.NS"
+    },
+    {
+      "name": "BAJAJHFL",
+      "nse_symbol": "BAJAJHFL",
+      "yahoo_symbol": "BAJAJHFL.NS"
+    },
+    {
+      "name": "BHARTIARTL",
+      "nse_symbol": "BHARTIARTL",
+      "yahoo_symbol": "BHARTIARTL.NS"
+    },
+    {
+      "name": "544467",
+      "nse_symbol": "544467",
+      "yahoo_symbol": "544467.NS"
+    },
+    {
+      "name": "ACC",
+      "nse_symbol": "ACC",
+      "yahoo_symbol": "ACC.NS"
+    },
+    {
+      "name": "AMBUJACEM",
+      "nse_symbol": "AMBUJACEM",
+      "yahoo_symbol": "AMBUJACEM.NS"
+    },
+    {
+      "name": "BEL",
+      "nse_symbol": "BEL",
+      "yahoo_symbol": "BEL.NS"
+    },
+    {
+      "name": "BOSCHLTD",
+      "nse_symbol": "BOSCHLTD",
+      "yahoo_symbol": "BOSCHLTD.NS"
+    },
+    {
+      "name": "SIEMENS",
+      "nse_symbol": "SIEMENS",
+      "yahoo_symbol": "SIEMENS.NS"
+    },
+    {
+      "name": "HAVELLS",
+      "nse_symbol": "HAVELLS",
+      "yahoo_symbol": "HAVELLS.NS"
+    },
+    {
+      "name": "POLYCAB",
+      "nse_symbol": "POLYCAB",
+      "yahoo_symbol": "POLYCAB.NS"
+    },
+    {
+      "name": "JSWSTEEL",
+      "nse_symbol": "JSWSTEEL",
+      "yahoo_symbol": "JSWSTEEL.NS"
+    },
+    {
+      "name": "THANGAMAYL",
+      "nse_symbol": "THANGAMAYL",
+      "yahoo_symbol": "THANGAMAYL.NS"
+    },
+    {
+      "name": "KALYANKJIL",
+      "nse_symbol": "KALYANKJIL",
+      "yahoo_symbol": "KALYANKJIL.NS"
+    },
+    {
+      "name": "MCX",
+      "nse_symbol": "MCX",
+      "yahoo_symbol": "MCX.NS"
+    },
+    {
+      "name": "POWERGRID",
+      "nse_symbol": "POWERGRID",
+      "yahoo_symbol": "POWERGRID.NS"
+    },
+    {
+      "name": "PFC",
+      "nse_symbol": "PFC",
+      "yahoo_symbol": "PFC.NS"
+    },
+    {
+      "name": "RECLTD",
+      "nse_symbol": "RECLTD",
+      "yahoo_symbol": "RECLTD.NS"
+    },
+    {
+      "name": "MAZDOCK",
+      "nse_symbol": "MAZDOCK",
+      "yahoo_symbol": "MAZDOCK.NS"
+    },
+    {
+      "name": "COCHINSHIP",
+      "nse_symbol": "COCHINSHIP",
+      "yahoo_symbol": "COCHINSHIP.NS"
+    },
+    {
+      "name": "IRFC",
+      "nse_symbol": "IRFC",
+      "yahoo_symbol": "IRFC.NS"
+    },
+    {
+      "name": "IRCTC",
+      "nse_symbol": "IRCTC",
+      "yahoo_symbol": "IRCTC.NS"
+    },
+    {
+      "name": "RVNL",
+      "nse_symbol": "RVNL",
+      "yahoo_symbol": "RVNL.NS"
+    },
+    {
+      "name": "NIFTYBEES",
+      "nse_symbol": "NIFTYBEES",
+      "yahoo_symbol": "NIFTYBEES.NS"
+    },
+    {
+      "name": "BANKBEES",
+      "nse_symbol": "BANKBEES",
+      "yahoo_symbol": "BANKBEES.NS"
+    },
+    {
+      "name": "JUNIORBEES",
+      "nse_symbol": "JUNIORBEES",
+      "yahoo_symbol": "JUNIORBEES.NS"
+    },
+    {
+      "name": "ITBEES",
+      "nse_symbol": "ITBEES",
+      "yahoo_symbol": "ITBEES.NS"
+    },
+    {
+      "name": "HEALTHIETF",
+      "nse_symbol": "HEALTHIETF",
+      "yahoo_symbol": "HEALTHIETF.NS"
+    },
+    {
+      "name": "MODEFENCE",
+      "nse_symbol": "MODEFENCE",
+      "yahoo_symbol": "MODEFENCE.NS"
+    }
+  ]
+}
