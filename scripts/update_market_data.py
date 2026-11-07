@@ -47,10 +47,11 @@ def fetch(session,symbol):
 def main():
     now=datetime.now(IST); old=previous_data().get("quotes",{}); quotes={}
     universe=list(CONFIG["instruments"])+[dict(CONFIG["benchmark"],kind="benchmark")]
-    for item in universe:
+    with requests.Session() as session:
+      for item in universe:
         key=item["nse_symbol"]; ticker=item["yahoo_symbol"]; prior=old.get(key,{})
         try:
-            q=fetch(requests.Session(),ticker)
+            q=fetch(session,ticker)
             age=(now.date()-datetime.strptime(q["priceDate"],"%Y-%m-%d").date()).days
             q.update({"name":item["name"],"nseSymbol":key,"yahooSymbol":ticker,"kind":item.get("kind","instrument"),"updatedAt":now.isoformat(),"ageCalendarDays":age})
             if age>4: q.update(status="stale",warning="Last close is over 4 calendar days old; check market holidays or feed delay.")
