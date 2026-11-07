@@ -35,13 +35,17 @@ function applyLatestMarketData(){
  let fresh=0,stale=0,unavailable=0,matched=0;
  stocks.forEach(stock=>{
   const q=marketQuoteFor(stock.symbol);
+  stock.baseFlags=stock.baseFlags===undefined?stock.flags:stock.baseFlags;
+  stock.flags=stock.baseFlags||'';
   if(!q){stock.cmpStatus='workbook';return}
   matched++;
   stock.cmpDate=q.priceDate||null;stock.cmpUpdatedAt=q.updatedAt||latestMarketData.generatedAt||null;
   stock.cmpSource=q.source||latestMarketData.provider||'Market data feed';stock.cmpWarning=q.warning||'';
   stock.cmpStatus=q.status||'unavailable';
   if(q.price!==null&&q.price!==undefined&&Number.isFinite(Number(q.price))&&Number(q.price)>0){stock.cmp=Number(q.price)}
-  if(stock.cmpStatus==='fresh')fresh++;else if(stock.cmpStatus==='stale')stale++;else unavailable++;
+  if(stock.cmpStatus==='fresh')fresh++;
+  else if(stock.cmpStatus==='stale'){stale++;stock.flags=[stock.flags,'CMP stale · last close '+(stock.cmpDate||'date unknown')].filter(Boolean).join('; ')}
+  else{unavailable++;stock.flags=[stock.flags,'CMP feed unavailable · showing workbook snapshot'].filter(Boolean).join('; ')}
  });
  const el=$('marketFeedStatus');
  if(el){
