@@ -327,9 +327,10 @@
       "yahoo_symbol": "BHARTIARTL.NS"
     },
     {
-      "name": "544467",
+      "name": "NSDL",
       "nse_symbol": "544467",
-      "yahoo_symbol": "544467.NS"
+      "yahoo_symbol": "NSDL.NS",
+      "provider_note": "Yahoo symbol mapped to listed company ticker NSDL; source workbook contained numeric BSE code 544467."
     },
     {
       "name": "ACC",
