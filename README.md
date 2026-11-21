@@ -24,3 +24,10 @@ Workbook parsing happens in the browser. The workbook itself is not uploaded by 
 
 ## Deploy
 A GitHub Actions workflow in `.github/workflows/pages.yml` deploys the static site to GitHub Pages on every push to `main`. In repository **Settings → Pages**, choose **GitHub Actions** as the build and deployment source if it is not already configured.
+
+
+---
+
+## Live Demo
+
+[Open the deployed application](https://mahashri.github.io/niftylens-stock-dashboard/)
