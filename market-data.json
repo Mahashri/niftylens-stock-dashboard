@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "provider": "Yahoo Finance chart endpoint (unofficial/free; no API key)",
-  "generatedAt": "2026-11-21T00:07:34.165511+05:30",
+  "generatedAt": "2026-11-24T03:33:35.521648+05:30",
   "schedule": "Weekdays 15:50 Asia/Kolkata, after NSE close",
   "counts": {
     "total": 91,
@@ -12,9 +12,9 @@
   "disclaimer": "Indicative end-of-day closes, not exchange-certified live quotes. Yahoo data is unofficial and may be delayed, incomplete or unavailable. Stale values are not current quotes.",
   "quotes": {
     "APOLLOHOSP": {
-      "price": 8738.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 9200.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "APOLLOHOSP.NS",
@@ -24,13 +24,13 @@
       "nseSymbol": "APOLLOHOSP",
       "yahooSymbol": "APOLLOHOSP.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "ASHOKLEY": {
-      "price": 166.15,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 163.35,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "ASHOKLEY.NS",
@@ -40,13 +40,13 @@
       "nseSymbol": "ASHOKLEY",
       "yahooSymbol": "ASHOKLEY.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "ARE&M": {
-      "price": 754.55,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 743.65,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "ARE&M.NS",
@@ -56,13 +56,13 @@
       "nseSymbol": "ARE&M",
       "yahooSymbol": "ARE&M.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "ASIANPAINT": {
-      "price": 2595.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 2608.3,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "ASIANPAINT.NS",
@@ -72,13 +72,13 @@
       "nseSymbol": "ASIANPAINT",
       "yahooSymbol": "ASIANPAINT.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "AXISBANK": {
-      "price": 1380.8,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1446.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "AXISBANK.NS",
@@ -88,13 +88,13 @@
       "nseSymbol": "AXISBANK",
       "yahooSymbol": "AXISBANK.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "BSE": {
-      "price": 3765.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 3781.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "BSE.NS",
@@ -104,13 +104,13 @@
       "nseSymbol": "BSE",
       "yahooSymbol": "BSE.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "BAJAJ-AUTO": {
-      "price": 10817.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 10765.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "BAJAJ-AUTO.NS",
@@ -120,13 +120,13 @@
       "nseSymbol": "BAJAJ-AUTO",
       "yahooSymbol": "BAJAJ-AUTO.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "BAJFINANCE": {
-      "price": 1092.85,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1122.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "BAJFINANCE.NS",
@@ -136,13 +136,13 @@
       "nseSymbol": "BAJFINANCE",
       "yahooSymbol": "BAJFINANCE.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "BAJAJFINSV": {
-      "price": 1885.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1892.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "BAJAJFINSV.NS",
@@ -152,13 +152,13 @@
       "nseSymbol": "BAJAJFINSV",
       "yahooSymbol": "BAJAJFINSV.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "BAJAJHLDNG": {
-      "price": 11312.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 11669.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "BAJAJHLDNG.NS",
@@ -168,13 +168,13 @@
       "nseSymbol": "BAJAJHLDNG",
       "yahooSymbol": "BAJAJHLDNG.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "CDSL": {
-      "price": 1423.4,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1430.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "CDSL.NS",
@@ -184,13 +184,13 @@
       "nseSymbol": "CDSL",
       "yahooSymbol": "CDSL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "CHOLAFIN": {
-      "price": 1875.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1874.6,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "CHOLAFIN.NS",
@@ -200,13 +200,13 @@
       "nseSymbol": "CHOLAFIN",
       "yahooSymbol": "CHOLAFIN.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "CIPLA": {
-      "price": 1418.5,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1415.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "CIPLA.NS",
@@ -216,13 +216,13 @@
       "nseSymbol": "CIPLA",
       "yahooSymbol": "CIPLA.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "DIVISLAB": {
-      "price": 11178.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 11180.5,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "DIVISLAB.NS",
@@ -232,13 +232,13 @@
       "nseSymbol": "DIVISLAB",
       "yahooSymbol": "DIVISLAB.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "DRREDDY": {
-      "price": 1400.9,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1390.2,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "DRREDDY.NS",
@@ -248,13 +248,13 @@
       "nseSymbol": "DRREDDY",
       "yahooSymbol": "DRREDDY.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "EXIDEIND": {
-      "price": 400.25,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 408.55,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "EXIDEIND.NS",
@@ -264,13 +264,13 @@
       "nseSymbol": "EXIDEIND",
       "yahooSymbol": "EXIDEIND.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "EICHERMOT": {
-      "price": 8058.5,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 8113.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "EICHERMOT.NS",
@@ -280,13 +280,13 @@
       "nseSymbol": "EICHERMOT",
       "yahooSymbol": "EICHERMOT.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "HEROMOTOCO": {
-      "price": 5556.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 5536.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "HEROMOTOCO.NS",
@@ -296,13 +296,13 @@
       "nseSymbol": "HEROMOTOCO",
       "yahooSymbol": "HEROMOTOCO.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "HAL": {
-      "price": 4760.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 4809.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "HAL.NS",
@@ -312,13 +312,13 @@
       "nseSymbol": "HAL",
       "yahooSymbol": "HAL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "HCLTECH": {
-      "price": 1332.9,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1344.4,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "HCLTECH.NS",
@@ -328,13 +328,13 @@
       "nseSymbol": "HCLTECH",
       "yahooSymbol": "HCLTECH.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "HDFCBANK": {
-      "price": 821.8,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 846.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "HDFCBANK.NS",
@@ -344,13 +344,13 @@
       "nseSymbol": "HDFCBANK",
       "yahooSymbol": "HDFCBANK.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "HDFCAMC": {
-      "price": 2689.3,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 2697.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "HDFCAMC.NS",
@@ -360,13 +360,13 @@
       "nseSymbol": "HDFCAMC",
       "yahooSymbol": "HDFCAMC.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "ICICIBANK": {
-      "price": 1608.9,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1640.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "ICICIBANK.NS",
@@ -376,13 +376,13 @@
       "nseSymbol": "ICICIBANK",
       "yahooSymbol": "ICICIBANK.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "ICICIAMC": {
-      "price": 2950.8,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 2961.3999,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "ICICIAMC.NS",
@@ -392,13 +392,13 @@
       "nseSymbol": "ICICIAMC",
       "yahooSymbol": "ICICIAMC.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "ITC": {
-      "price": 301.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 299.1,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "ITC.NS",
@@ -408,13 +408,13 @@
       "nseSymbol": "ITC",
       "yahooSymbol": "ITC.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "INFY": {
-      "price": 1091.9,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1098.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "INFY.NS",
@@ -424,13 +424,13 @@
       "nseSymbol": "INFY",
       "yahooSymbol": "INFY.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "KOTAKBANK": {
-      "price": 503.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 515.8,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "KOTAKBANK.NS",
@@ -440,13 +440,13 @@
       "nseSymbol": "KOTAKBANK",
       "yahooSymbol": "KOTAKBANK.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "LT": {
-      "price": 4211.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 4209.1001,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "LT.NS",
@@ -456,13 +456,13 @@
       "nseSymbol": "LT",
       "yahooSymbol": "LT.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "MANAPPURAM": {
-      "price": 282.85,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 280.5,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "MANAPPURAM.NS",
@@ -472,13 +472,13 @@
       "nseSymbol": "MANAPPURAM",
       "yahooSymbol": "MANAPPURAM.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "MUTHOOTFIN": {
-      "price": 2618.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 2550.5,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "MUTHOOTFIN.NS",
@@ -488,13 +488,13 @@
       "nseSymbol": "MUTHOOTFIN",
       "yahooSymbol": "MUTHOOTFIN.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "MARUTI": {
-      "price": 13589.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 14011.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "MARUTI.NS",
@@ -504,13 +504,13 @@
       "nseSymbol": "MARUTI",
       "yahooSymbol": "MARUTI.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "M&M": {
-      "price": 3509.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 3545.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "M&M.NS",
@@ -520,13 +520,13 @@
       "nseSymbol": "M&M",
       "yahooSymbol": "M&M.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "MAXHEALTH": {
-      "price": 1040.65,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1081.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "MAXHEALTH.NS",
@@ -536,13 +536,13 @@
       "nseSymbol": "MAXHEALTH",
       "yahooSymbol": "MAXHEALTH.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "NH": {
-      "price": 1873.1,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1943.7,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "NH.NS",
@@ -552,13 +552,13 @@
       "nseSymbol": "NH",
       "yahooSymbol": "NH.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "NATCOPHARM": {
-      "price": 821.95,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 814.3,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "NATCOPHARM.NS",
@@ -568,13 +568,13 @@
       "nseSymbol": "NATCOPHARM",
       "yahooSymbol": "NATCOPHARM.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "NESTLEIND": {
-      "price": 1303.4,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1325.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "NESTLEIND.NS",
@@ -584,13 +584,13 @@
       "nseSymbol": "NESTLEIND",
       "yahooSymbol": "NESTLEIND.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "NAM-INDIA": {
-      "price": 1052.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1050.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "NAM-INDIA.NS",
@@ -600,13 +600,13 @@
       "nseSymbol": "NAM-INDIA",
       "yahooSymbol": "NAM-INDIA.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "PHARMABEES": {
-      "price": 29.08,
-      "priceDate": "2026-11-20",
-      "priceTimestamp": "2026-11-20T09:15:00+05:30",
+      "price": 29.05,
+      "priceDate": "2026-11-23",
+      "priceTimestamp": "2026-11-23T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "PHARMABEES.NS",
@@ -616,13 +616,13 @@
       "nseSymbol": "PHARMABEES",
       "yahooSymbol": "PHARMABEES.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
       "ageCalendarDays": 1
     },
     "SUNPHARMA": {
-      "price": 1900.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1884.9,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "SUNPHARMA.NS",
@@ -632,13 +632,13 @@
       "nseSymbol": "SUNPHARMA",
       "yahooSymbol": "SUNPHARMA.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "SHRIRAMFIN": {
-      "price": 973.3,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 972.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "SHRIRAMFIN.NS",
@@ -648,13 +648,13 @@
       "nseSymbol": "SHRIRAMFIN",
       "yahooSymbol": "SHRIRAMFIN.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "SBIN": {
-      "price": 1156.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1165.1,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "SBIN.NS",
@@ -664,13 +664,13 @@
       "nseSymbol": "SBIN",
       "yahooSymbol": "SBIN.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "SOUTHBANK": {
-      "price": 59.64,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 58.62,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "SOUTHBANK.NS",
@@ -680,13 +680,13 @@
       "nseSymbol": "SOUTHBANK",
       "yahooSymbol": "SOUTHBANK.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "KARURVYSYA": {
-      "price": 384.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 377.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "KARURVYSYA.NS",
@@ -696,13 +696,13 @@
       "nseSymbol": "KARURVYSYA",
       "yahooSymbol": "KARURVYSYA.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "TMB": {
-      "price": 894.5,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 880.35,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "TMB.NS",
@@ -712,13 +712,13 @@
       "nseSymbol": "TMB",
       "yahooSymbol": "TMB.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "RELIANCE": {
-      "price": 1375.6,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1377.5,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "RELIANCE.NS",
@@ -728,13 +728,13 @@
       "nseSymbol": "RELIANCE",
       "yahooSymbol": "RELIANCE.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "GOLDBEES": {
-      "price": 106.3,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 102.21,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "GOLDBEES.NS",
@@ -744,13 +744,13 @@
       "nseSymbol": "GOLDBEES",
       "yahooSymbol": "GOLDBEES.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "SILVERBEES": {
-      "price": 152.81,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 146.78,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "SILVERBEES.NS",
@@ -760,13 +760,13 @@
       "nseSymbol": "SILVERBEES",
       "yahooSymbol": "SILVERBEES.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "TCS": {
-      "price": 2342.7,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 2376.2,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "TCS.NS",
@@ -776,13 +776,13 @@
       "nseSymbol": "TCS",
       "yahooSymbol": "TCS.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "TMPV": {
-      "price": 263.5,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 266.35,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "TMPV.NS",
@@ -792,13 +792,13 @@
       "nseSymbol": "TMPV",
       "yahooSymbol": "TMPV.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "TMCV": {
-      "price": 445.85,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 456.75,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "TMCV.NS",
@@ -808,13 +808,13 @@
       "nseSymbol": "TMCV",
       "yahooSymbol": "TMCV.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "TATASTEEL": {
-      "price": 180.89,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 178.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "TATASTEEL.NS",
@@ -824,13 +824,13 @@
       "nseSymbol": "TATASTEEL",
       "yahooSymbol": "TATASTEEL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "TATAPOWER": {
-      "price": 340.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 339.7,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "TATAPOWER.NS",
@@ -840,13 +840,13 @@
       "nseSymbol": "TATAPOWER",
       "yahooSymbol": "TATAPOWER.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "TITAN": {
-      "price": 4700.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 4620.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "TITAN.NS",
@@ -856,13 +856,13 @@
       "nseSymbol": "TITAN",
       "yahooSymbol": "TITAN.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "TVSMOTOR": {
-      "price": 4601.3999,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 4590.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "TVSMOTOR.NS",
@@ -872,13 +872,13 @@
       "nseSymbol": "TVSMOTOR",
       "yahooSymbol": "TVSMOTOR.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "ULTRACEMCO": {
-      "price": 12560.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 12939.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "ULTRACEMCO.NS",
@@ -888,13 +888,13 @@
       "nseSymbol": "ULTRACEMCO",
       "yahooSymbol": "ULTRACEMCO.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "VBL": {
-      "price": 420.5,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 427.5,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "VBL.NS",
@@ -904,13 +904,13 @@
       "nseSymbol": "VBL",
       "yahooSymbol": "VBL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "WIPRO": {
-      "price": 183.93,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 185.7,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "WIPRO.NS",
@@ -920,13 +920,13 @@
       "nseSymbol": "WIPRO",
       "yahooSymbol": "WIPRO.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "WAAREEENER": {
-      "price": 2433.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 2461.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "WAAREEENER.NS",
@@ -936,13 +936,13 @@
       "nseSymbol": "WAAREEENER",
       "yahooSymbol": "WAAREEENER.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "ZYDUSLIFE": {
-      "price": 1202.9,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1200.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "ZYDUSLIFE.NS",
@@ -952,13 +952,13 @@
       "nseSymbol": "ZYDUSLIFE",
       "yahooSymbol": "ZYDUSLIFE.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "VEDL": {
-      "price": 243.7,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 238.04,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "VEDL.NS",
@@ -968,13 +968,13 @@
       "nseSymbol": "VEDL",
       "yahooSymbol": "VEDL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "SAIL": {
-      "price": 164.43,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 164.11,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "SAIL.NS",
@@ -984,13 +984,13 @@
       "nseSymbol": "SAIL",
       "yahooSymbol": "SAIL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "COALINDIA": {
-      "price": 391.5,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 390.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "COALINDIA.NS",
@@ -1000,13 +1000,13 @@
       "nseSymbol": "COALINDIA",
       "yahooSymbol": "COALINDIA.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "BAJAJHFL": {
-      "price": 81.92,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 81.95,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "BAJAJHFL.NS",
@@ -1016,13 +1016,13 @@
       "nseSymbol": "BAJAJHFL",
       "yahooSymbol": "BAJAJHFL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "BHARTIARTL": {
-      "price": 2144.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 2161.7,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "BHARTIARTL.NS",
@@ -1032,8 +1032,8 @@
       "nseSymbol": "BHARTIARTL",
       "yahooSymbol": "BHARTIARTL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "544467": {
       "name": "NSDL",
@@ -1042,15 +1042,15 @@
       "kind": "instrument",
       "price": null,
       "priceDate": null,
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
       "status": "unavailable",
       "source": "Yahoo Finance chart endpoint",
       "warning": "404 Client Error: Not Found for url: https://query1.finance.yahoo.com/v8/finance/chart/NSDL.NS?range=5d&interval=1d&events=div%2Csplits"
     },
     "ACC": {
-      "price": 1268.6,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1277.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "ACC.NS",
@@ -1060,13 +1060,13 @@
       "nseSymbol": "ACC",
       "yahooSymbol": "ACC.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "AMBUJACEM": {
-      "price": 396.8,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 400.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "AMBUJACEM.NS",
@@ -1076,13 +1076,13 @@
       "nseSymbol": "AMBUJACEM",
       "yahooSymbol": "AMBUJACEM.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "BEL": {
-      "price": 404.2,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 402.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "BEL.NS",
@@ -1092,13 +1092,13 @@
       "nseSymbol": "BEL",
       "yahooSymbol": "BEL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "BOSCHLTD": {
-      "price": 49400.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 49360.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "BOSCHLTD.NS",
@@ -1108,13 +1108,13 @@
       "nseSymbol": "BOSCHLTD",
       "yahooSymbol": "BOSCHLTD.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "SIEMENS": {
-      "price": 3610.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 3582.6001,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "SIEMENS.NS",
@@ -1124,13 +1124,13 @@
       "nseSymbol": "SIEMENS",
       "yahooSymbol": "SIEMENS.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "HAVELLS": {
-      "price": 1200.8,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1211.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "HAVELLS.NS",
@@ -1140,13 +1140,13 @@
       "nseSymbol": "HAVELLS",
       "yahooSymbol": "HAVELLS.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "POLYCAB": {
-      "price": 7550.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 7570.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "POLYCAB.NS",
@@ -1156,13 +1156,13 @@
       "nseSymbol": "POLYCAB",
       "yahooSymbol": "POLYCAB.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "JSWSTEEL": {
-      "price": 1336.8,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1337.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "JSWSTEEL.NS",
@@ -1172,13 +1172,13 @@
       "nseSymbol": "JSWSTEEL",
       "yahooSymbol": "JSWSTEEL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "THANGAMAYL": {
-      "price": 3978.8999,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 3813.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "THANGAMAYL.NS",
@@ -1188,13 +1188,13 @@
       "nseSymbol": "THANGAMAYL",
       "yahooSymbol": "THANGAMAYL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "KALYANKJIL": {
-      "price": 661.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 638.7,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "KALYANKJIL.NS",
@@ -1204,13 +1204,13 @@
       "nseSymbol": "KALYANKJIL",
       "yahooSymbol": "KALYANKJIL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "MCX": {
-      "price": 3645.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 3535.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "MCX.NS",
@@ -1220,13 +1220,13 @@
       "nseSymbol": "MCX",
       "yahooSymbol": "MCX.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "POWERGRID": {
-      "price": 264.5,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 269.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "POWERGRID.NS",
@@ -1236,13 +1236,13 @@
       "nseSymbol": "POWERGRID",
       "yahooSymbol": "POWERGRID.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "PFC": {
-      "price": 331.6,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 332.9,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "PFC.NS",
@@ -1252,13 +1252,13 @@
       "nseSymbol": "PFC",
       "yahooSymbol": "PFC.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "RECLTD": {
-      "price": 299.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 298.1,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "RECLTD.NS",
@@ -1268,13 +1268,13 @@
       "nseSymbol": "RECLTD",
       "yahooSymbol": "RECLTD.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "MAZDOCK": {
-      "price": 1850.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1841.5,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "MAZDOCK.NS",
@@ -1284,13 +1284,13 @@
       "nseSymbol": "MAZDOCK",
       "yahooSymbol": "MAZDOCK.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "COCHINSHIP": {
-      "price": 1138.2,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 1125.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "COCHINSHIP.NS",
@@ -1300,13 +1300,13 @@
       "nseSymbol": "COCHINSHIP",
       "yahooSymbol": "COCHINSHIP.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "IRFC": {
-      "price": 84.26,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 83.74,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "IRFC.NS",
@@ -1316,13 +1316,13 @@
       "nseSymbol": "IRFC",
       "yahooSymbol": "IRFC.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "IRCTC": {
-      "price": 449.9,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 448.05,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "IRCTC.NS",
@@ -1332,13 +1332,13 @@
       "nseSymbol": "IRCTC",
       "yahooSymbol": "IRCTC.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "RVNL": {
-      "price": 195.0,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 191.0,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "RVNL.NS",
@@ -1348,13 +1348,13 @@
       "nseSymbol": "RVNL",
       "yahooSymbol": "RVNL.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "NIFTYBEES": {
-      "price": 290.61,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 294.22,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "NIFTYBEES.NS",
@@ -1364,13 +1364,13 @@
       "nseSymbol": "NIFTYBEES",
       "yahooSymbol": "NIFTYBEES.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "BANKBEES": {
-      "price": 652.7,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 669.37,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "BANKBEES.NS",
@@ -1380,13 +1380,13 @@
       "nseSymbol": "BANKBEES",
       "yahooSymbol": "BANKBEES.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "JUNIORBEES": {
-      "price": 787.35,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 791.06,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "JUNIORBEES.NS",
@@ -1396,13 +1396,13 @@
       "nseSymbol": "JUNIORBEES",
       "yahooSymbol": "JUNIORBEES.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "ITBEES": {
-      "price": 34.37,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 34.84,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "ITBEES.NS",
@@ -1412,13 +1412,13 @@
       "nseSymbol": "ITBEES",
       "yahooSymbol": "ITBEES.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "HEALTHIETF": {
-      "price": 179.34,
-      "priceDate": "2026-11-20",
-      "priceTimestamp": "2026-11-20T09:15:00+05:30",
+      "price": 179.77,
+      "priceDate": "2026-11-23",
+      "priceTimestamp": "2026-11-23T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "HEALTHIETF.NS",
@@ -1428,13 +1428,13 @@
       "nseSymbol": "HEALTHIETF",
       "yahooSymbol": "HEALTHIETF.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
       "ageCalendarDays": 1
     },
     "MODEFENCE": {
-      "price": 98.76,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 98.05,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "MODEFENCE.NS",
@@ -1444,13 +1444,13 @@
       "nseSymbol": "MODEFENCE",
       "yahooSymbol": "MODEFENCE.NS",
       "kind": "instrument",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     },
     "NIFTY 50": {
-      "price": 25514.3008,
-      "priceDate": "2026-11-19",
-      "priceTimestamp": "2026-11-19T09:15:00+05:30",
+      "price": 25800.5996,
+      "priceDate": "2026-11-20",
+      "priceTimestamp": "2026-11-20T09:15:00+05:30",
       "currency": "INR",
       "exchange": "NSE",
       "providerSymbol": "^NSEI",
@@ -1460,8 +1460,8 @@
       "nseSymbol": "NIFTY 50",
       "yahooSymbol": "^NSEI",
       "kind": "benchmark",
-      "updatedAt": "2026-11-21T00:07:34.165511+05:30",
-      "ageCalendarDays": 2
+      "updatedAt": "2026-11-24T03:33:35.521648+05:30",
+      "ageCalendarDays": 4
     }
   }
 }
